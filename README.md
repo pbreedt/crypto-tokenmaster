@@ -11,7 +11,7 @@
 
 ### Reference
 
-- OpenZeppelin ERC721 NFT
+- OpenZeppelin [ERC721](https://docs.openzeppelin.com/contracts/2.x/erc721) NFT
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/). Recommended to use the LTS version.
