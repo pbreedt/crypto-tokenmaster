@@ -9,6 +9,10 @@
 - [React.js](https://reactjs.org/) (Frontend Framework)
 - [MetaMask](https://metamask.io/)
 
+### Reference
+
+- OpenZeppelin ERC721 NFT
+
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/). Recommended to use the LTS version.
 - Install [MetaMask](https://metamask.io/) on your browser.
